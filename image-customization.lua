@@ -6,7 +6,6 @@ features {
 	'ebtables-source-filter',
 	'mesh-batman-adv-15',
 	'config-mode-mesh-vpn',
-	'ff-mesh-vpn-tunneldigger',
 	'respondd',
 	'radvd',
 	'status-page',
@@ -15,15 +14,14 @@ features {
 	'web-private-wifi',
 	'advancedstats',
 	'config-mode-statistics',
-	'ssid-changer',
 	'rfkill-disable',
-	'gluon-domain-changer',
+	'domain-changer',
 }
 
 packages {
 	'iwinfo',
-	'iptables',
-	'ffac-ssid-changer'
+	'ffac-ssid-changer',
+	'ff-mesh-vpn-tunneldigger',
 }
 
 if not device_class('tiny') then
