@@ -6,6 +6,7 @@ features {
 	'ebtables-source-filter',
 	'mesh-batman-adv-15',
 	'config-mode-mesh-vpn',
+	'config-mode-domain-select',
 	'respondd',
 	'radvd',
 	'status-page',
