@@ -21,7 +21,7 @@ features {
 
 packages {
 	'iwinfo',
-	'ffac-ssid-changer',
+	'ssid-changer',
 	'ff-mesh-vpn-tunneldigger',
 }
 
