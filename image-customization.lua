@@ -21,7 +21,7 @@ features {
 
 packages {
 	'iwinfo',
-	'ssid-changer',
+	'gluon-ssid-changer',
 	'ff-mesh-vpn-tunneldigger',
 }
 
