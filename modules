@@ -1,9 +1,0 @@
-GLUON_SITE_FEEDS='community ffms'
-
-PACKAGES_COMMUNITY_REPO=https://github.com/freifunk-gluon/community-packages.git
-PACKAGES_COMMUNITY_COMMIT=39a38b6f3b530607fa70114dad80434457ecf5e0
-PACKAGES_COMMUNITY_BRANCH=master
-
-PACKAGES_FFMS_REPO=https://github.com/FreiFunkMuenster/packages-ffms.git
-PACKAGES_FFMS_COMMIT=6c507ef98691a2feb83738b78e8220700a145234
-PACKAGES_FFMS_BRANCH=v2023.2.3
