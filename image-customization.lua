@@ -7,6 +7,7 @@ features {
 	'mesh-batman-adv-15',
 	'config-mode-mesh-vpn',
 	'config-mode-domain-select',
+	'mesh-vpn-bwlimit-minimum',
 	'respondd',
 	'radvd',
 	'status-page',
