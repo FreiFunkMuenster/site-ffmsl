@@ -5,6 +5,7 @@ features {
 	'ebtables-limit-arp',
 	'ebtables-source-filter',
 	'mesh-batman-adv-15',
+	'mesh-vpn-fastd-l2tp',
 	'config-mode-mesh-vpn',
 	'config-mode-domain-select',
 	'mesh-vpn-bwlimit-minimum',
@@ -23,7 +24,6 @@ features {
 packages {
 	'iwinfo',
 	'gluon-ssid-changer',
-	'ff-mesh-vpn-tunneldigger',
 }
 
 if not device_class('tiny') then
